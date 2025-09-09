@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhrubo
 - 👀 I’m interested in alot of stuff, mostly space and tech
-- 🌱 I’m currently learning Computer engineering and ML
+- 🌱 I’m currently learning CyberSecurity and ML
 - 💞️ I’m looking to collaborate on anything tech related
 - 📫 How to reach me- My website: https://warcat47.github.io/LandingPage/
 - 😄 Pronouns: Boom/Explode
